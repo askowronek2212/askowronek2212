@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Skowronek (@askowronek2212)
 - 👀 I’m interested in games (obviously) :D 
-- 🌱 I’m currently learning C#/Dotnet/SQL
+- 🌱 I’m currently learning Python/SQL
 - 📫 How to reach me ...
 
 <!---
